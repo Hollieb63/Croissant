@@ -8,6 +8,8 @@ footer{
 }
 footer a{
     margin: 10px;
+    font-size: 18px;
+    color: #775151;
 }
 img{
     max-width: 300px;
