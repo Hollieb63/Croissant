@@ -17,4 +17,9 @@ img{
 }
 p{
     text-align: center;
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+}
+body{
+background: #fff1ce;
 }
